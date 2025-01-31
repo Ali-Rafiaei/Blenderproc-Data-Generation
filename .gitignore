@@ -1,0 +1,7 @@
+.idea/*
+output/*
+examples/*
+*.mtl
+*.ply
+*.fbx
+*.stl
